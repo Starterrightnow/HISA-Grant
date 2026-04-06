@@ -1,0 +1,53 @@
+```mermaid
+mindmap
+  root((Veteran's Master Execution Plan))
+    Immediate Health & Safety (Tier 1)
+      ::icon(fa-check-circle)
+      HISA Grant ($6,800)
+        1. **Trigger:** Secure Message Doc for 'Sanitary/Electrical Hazard' Referral to Prosthetics. (Step 1 Complete)
+        2. **Evidence:** VA Form 10-0103 + Color photos of mold/outlets + 1 Contractor Quote. (Next)
+        3. **Submit:** Direct to Columbus Prosthetics (PSAS).
+      VA Water Distiller
+        1. **Trigger:** Secure Message Doc for 'Durable Medical Equipment' (DME) consult. (Step 1 Complete)
+        2. **Process:** Prosthetics reviews; ships unit (2 weeks).
+      Respite Care
+        1. **Trigger:** Secure Message Doc for referral to 'Geriatrics/Extended Care' (GEC). (Step 1 Complete)
+        2. **Process:** Intake interview; Home Health Aide schedule.
+    Housing & Infrastructure (Tier 2)
+      ::icon(fa-check-circle)
+      SAH Grant ($126,526)
+        1. **Apply:** Submit VA Form 26-4555 on VA.gov tonight. (In Progress)
+        2. **Interview:** SAH Agent home visit for 'Feasibility Study'. (Show mold/outlets/vibrations)
+        3. **Plan:** Work with VA-Registered Builder for egress/addition/vibration isolation.
+        4. **Build:** Phase funds for electrical grounding and "Therapy Room" build-out.
+      Lead Hazard Grant (Windows)
+        1. **Call:** Madison County Public Health (740-852-3065). (Toddler present in pre-1978 home)
+        2. **Inspect:** Local lead inspection.
+        3. **Replace:** Complete new window installation for safety/lead mitigation.
+      Vibration & Sound Mitigation
+        1. **Evidence:** Take "Rippling Water" video for proof of truck/explosion vibrations. (Next)
+        2. **Apply:** Request decoupled walls/acoustic insulation/Rockwool in HISA or SAH grant.
+    Career & Income (Tier 3)
+      ::icon(fa-check-circle)
+      VR&E (Chapter 31)
+        1. **Email Counselor:** Tomorrow. Elect to use the **P911SA (GI Bill)** rate for higher pay. (In Progress)
+        2. **Orientation:** Choose the 'Long-Term Services' or 'Independent Living' (IL) track.
+        3. **Train:** Start AI certifications (Python, APIs). (Next)
+        4. **Tech:** Request high-end computer/assistive technology for your new "AI Room".
+      SSDI (Step 3 of 5)
+        1. **Wait:** In 'Medical Review' phase. Respond immediately to any SSA requests. (Current)
+        2. **Monitor:** Check status on ssa.gov. Expedited for 100% P&T rating. (Current)
+        3. **Decision:** Potential final exam request; approval expected in 30-60 days.
+    Advocacy & Support
+      ::icon(fa-handshake)
+      Madison County VSO
+        1. **Call:** Jennifer or Pete (740-852-0676). (Monday)
+        2. **Meeting:** London office. Sign all grant paperwork (SAH/HISA).
+        3. **Advocate:** Use VSO to pressure the VA clinic if Secure Messages are ignored.
+      Columbus Patient Advocate
+        1. **Call:** (614) 257-5484.
+        2. **Action:** Use ONLY if VA clinic fails to respond to Secure Messages within 3 business days.
+      Battelle Community Relations
+        1. **Call:** (614) 424-6424.
+        2. **Action:** Request to be added to the "Neighbor Notification List" for explosions/tests. (Monday)
+```
